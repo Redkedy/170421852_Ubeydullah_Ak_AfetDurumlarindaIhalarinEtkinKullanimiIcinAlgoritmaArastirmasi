@@ -1,0 +1,2 @@
+# 170421852_Ubeydullah_Ak_AfetDurumlarindaIhalarinEtkinKullanimiIcinAlgoritmaArastirmasi
+Bitirme projesinin kaynak kodları, sunum dosyası, raporları.
